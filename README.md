@@ -14,3 +14,6 @@ If the user press 2, Prompt the user for the date then print the wind.speed of t
 If the user press 3, Prompt the user for the date then print the pressure of the input date.
 If the user press 0, Terminate the program.
 The program should not terminate until the user press 0.
+
+Output:
+![output](https://github.com/MeghaSuresh122/REST-GET-API-interaction/assets/141258930/d78a5c73-44aa-42ed-b375-6fb2f3d3ec92)
